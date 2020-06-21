@@ -22,10 +22,10 @@
 6.  Repeat step 3 to step 4 twice, each time splitting the datasets differently i.e. 70-30, 60-40, then note the outcomes of your modeling.
 7.  Provide further recommendations to improve both classifiers.
 
-## CHALLENGES - {There are no big Challenges}
+### CHALLENGES - {There are no big Challenges}
 
-## USED TECHNOLOGIES
+### USED TECHNOLOGIES
 
 -{PYTHON} -{MATPLOTLIB} -{SEABORN}
 
-## LICENCE -MIT LICENCE WAS USED
+### LICENCE -MIT LICENCE WAS USED
